@@ -1,6 +1,6 @@
 pragma solidity 0.6.0;
 
-contract hello {
+contract Hello {
 
     string public greeting;
 
